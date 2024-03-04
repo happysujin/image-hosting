@@ -1,0 +1,120 @@
+joints root 3.28864479 -0.77034116 6.26951647
+joints joint_23 3.28864479 -0.46612215 7.91112709
+joints joint_28 3.28864479 0.23933268 5.18860722
+joints joint_29 3.28864479 1.23789930 7.01018810
+joints joint_34 3.28864479 -0.05277061 9.77972126
+joints joint_26 3.28864479 -0.89639807 4.12484360
+joints joint_36 3.28864479 1.27564049 4.34784317
+joints joint_9 2.45800400 0.09236765 7.20407391
+joints joint_46 4.11928558 0.09236765 7.20407391
+joints joint_18 2.08690763 -0.31646872 9.17849827
+joints joint_33 3.28864479 1.58916187 10.23030472
+joints joint_55 4.49038219 -0.31646872 9.17849827
+joints joint_27 3.28864479 -1.41577554 1.90446520
+joints joint_30 3.28864479 0.95889759 3.12000275
+joints joint_10 1.58094227 0.97717428 5.94216633
+joints joint_47 4.99634743 0.97717428 5.94216633
+joints joint_32 3.28864479 1.77649546 15.19183064
+joints joint_11 1.78228259 -0.56947398 1.48281813
+joints joint_48 4.79500675 -0.56947398 1.48281813
+joints joint_8 0.23858380 1.15143871 6.29312658
+joints joint_12 0.53745079 -0.82452703 6.69575167
+joints joint_45 6.33870602 1.15143871 6.29312658
+joints joint_49 6.03983879 -0.82452703 6.69575167
+joints joint_25 3.28864479 0.82474375 16.51452446
+joints joint_4 -1.98676825 1.75471783 13.15796661
+joints joint_7 1.72725058 1.20309782 8.29778385
+joints joint_20 0.23789907 -2.00122046 7.73485470
+joints joint_21 0.14812255 -2.61679411 5.92412043
+joints joint_41 8.56405830 1.75471783 13.15796661
+joints joint_44 4.85003901 1.20309782 8.29778385
+joints joint_57 6.33939075 -2.00122046 7.73485470
+joints joint_58 6.42916679 -2.61679411 5.92412043
+joints joint_24 3.28864479 1.11733198 18.57312775
+joints joint_3 -2.27164316 1.47493744 16.14719963
+joints joint_5 1.75011373 0.62964678 11.25739288
+joints joint_6 1.79446661 0.91004562 10.00964260
+joints joint_19 -1.05654335 -2.75820637 9.24503899
+joints joint_13 1.73657119 -1.96156597 6.92196798
+joints joint_40 8.84893227 1.47493744 16.14719963
+joints joint_42 4.82717609 0.62964678 11.25739288
+joints joint_43 4.78282309 0.91004562 10.00964260
+joints joint_56 7.63383293 -2.75820637 9.24503899
+joints joint_50 4.84071827 -1.96156597 6.92196798
+joints joint_31 3.28864479 0.47514534 19.34765625
+joints joint_2 -2.40070915 2.13881874 16.79738426
+joints joint_17 1.63477826 -0.03528070 13.07219028
+joints joint_22 1.37225854 -2.43474627 6.07348299
+joints joint_39 8.97799873 2.13881874 16.79738426
+joints joint_54 4.94251156 -0.03528070 13.07219028
+joints joint_59 5.20503092 -2.43474627 6.07348299
+joints joint_16 1.34797037 -0.32774782 14.99717045
+joints joint_53 5.22931910 -0.32774782 14.99717045
+joints joint_14 1.19526815 -0.28331995 16.75272179
+joints joint_51 5.38202143 -0.28331995 16.75272179
+joints joint_1 0.75792623 1.09998560 16.84636879
+joints joint_15 1.08633423 -0.48798156 18.26078606
+joints joint_38 5.81936359 1.09998560 16.84636879
+joints joint_52 5.49095535 -0.48798156 18.26078606
+joints joint_0 0.45898986 1.14174461 18.72941399
+joints joint_37 6.11829948 1.14174461 18.72941399
+root root
+hier root joint_23
+hier root joint_28
+hier joint_23 joint_29
+hier joint_23 joint_34
+hier joint_28 joint_26
+hier joint_28 joint_36
+hier joint_29 joint_9
+hier joint_29 joint_46
+hier joint_34 joint_18
+hier joint_34 joint_33
+hier joint_34 joint_55
+hier joint_26 joint_27
+hier joint_36 joint_30
+hier joint_9 joint_10
+hier joint_46 joint_47
+hier joint_33 joint_32
+hier joint_27 joint_11
+hier joint_27 joint_48
+hier joint_10 joint_8
+hier joint_10 joint_12
+hier joint_47 joint_45
+hier joint_47 joint_49
+hier joint_32 joint_25
+hier joint_8 joint_4
+hier joint_8 joint_7
+hier joint_12 joint_20
+hier joint_12 joint_21
+hier joint_45 joint_41
+hier joint_45 joint_44
+hier joint_49 joint_57
+hier joint_49 joint_58
+hier joint_25 joint_24
+hier joint_4 joint_3
+hier joint_7 joint_5
+hier joint_7 joint_6
+hier joint_20 joint_19
+hier joint_21 joint_13
+hier joint_41 joint_40
+hier joint_44 joint_42
+hier joint_44 joint_43
+hier joint_57 joint_56
+hier joint_58 joint_50
+hier joint_24 joint_31
+hier joint_3 joint_2
+hier joint_6 joint_17
+hier joint_13 joint_22
+hier joint_40 joint_39
+hier joint_43 joint_54
+hier joint_50 joint_59
+hier joint_17 joint_16
+hier joint_54 joint_53
+hier joint_16 joint_14
+hier joint_53 joint_51
+hier joint_14 joint_1
+hier joint_14 joint_15
+hier joint_51 joint_38
+hier joint_51 joint_52
+hier joint_1 joint_0
+hier joint_38 joint_37
